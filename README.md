@@ -1,4 +1,5 @@
 # ReadMeGenie
+<<<<<<< HEAD
 
 ## Description
 
@@ -30,3 +31,6 @@ If you have any questions, you can reach me at:
 
 - GitHub: [RaaBaaJaa718](https://github.com/RaaBaaJaa718)
 - Email: Ruben.Alston646@gmail.com
+=======
+A professional README generator using Inquirer.js.
+>>>>>>> origin/main
