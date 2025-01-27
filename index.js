@@ -66,6 +66,15 @@ const generateReadme = (answers) =>
 
 ${answers.description}
 
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [License](#license)
+- [Questions](#questions)
+
 ## Installation
 
 ${answers.installation}
@@ -104,3 +113,4 @@ function init() {
 
 // Function call to initialize app
 init();
+
