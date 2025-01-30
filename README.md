@@ -2,11 +2,25 @@
 
 ## Description
 
-project: A professional README generator using Inquirer.js.
+A professional README generator using Inquirer.js
+
+## How-To Video
+
+[Watch the How-To Video on Google Drive](https://drive.google.com/file/d/1AwlFiG0iXX1m2-xs_sr2PaB5dPosDKyX/view)
+
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [License](#license)
+- [Questions](#questions)
 
 ## Installation
 
-npm install
+npm
 
 ## Usage
 
