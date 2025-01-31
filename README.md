@@ -1,6 +1,6 @@
 # ReadMeGenie
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
+[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 
 
