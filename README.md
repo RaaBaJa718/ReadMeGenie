@@ -1,7 +1,6 @@
 # ReadMeGenie
 
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
-[![Version](https://img.shields.io/github/v/release/RaaBaaJaa718/ReadMeGenie)](https://github.com/RaaBaaJaa718/ReadMeGenie/releases)
 
 ## Description
 
