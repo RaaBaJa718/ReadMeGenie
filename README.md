@@ -1,11 +1,7 @@
 # ReadMeGenie
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
-[![Build Status](https://travis-ci.org/RaaBaaJaa718/ReadMeGenie.svg?branch=main)](https://travis-ci.org/RaaBaaJaa718/ReadMeGenie)
-[![Dependencies](https://img.shields.io/david/RaaBaaJaa718/ReadMeGenie.svg)](https://david-dm.org/RaaBaaJaa718/ReadMeGenie)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
-![GitHub stars](https://img.shields.io/github/stars/RaaBaaJaa718/ReadMeGenie)
-![GitHub forks](https://img.shields.io/github/forks/RaaBaaJaa718/ReadMeGenie)
 
 ## Description
 
