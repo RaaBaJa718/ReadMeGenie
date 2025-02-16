@@ -44,5 +44,5 @@ This project is licensed under the MIT license.
 
 If you have any questions, you can reach me at:
 
-- GitHub: [RaaBaaJaa718](https://github.com/RaaBaaJaa718)
+- GitHub: [RaaBaJa718](https://github.com/RaaBaaJaa718)
 - Email: Ruben.Alston646@gmail.com
